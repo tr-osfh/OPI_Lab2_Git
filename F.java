@@ -47,4 +47,8 @@ public class F implements I, B, G {
     public String kk() {
         return "No";
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
