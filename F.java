@@ -1,4 +1,4 @@
-public class F implements I, B, G {
+public class F extends null implements I, B, G {
 
     private double a = 100.500;
 
@@ -42,5 +42,21 @@ public class F implements I, B, G {
 
     public double ad() {
         return 12.12;
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public long ac() {
+        return 111;
     }
 }
