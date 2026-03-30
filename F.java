@@ -59,4 +59,8 @@ public class F extends null implements I, B, G {
     public long ac() {
         return 111;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
