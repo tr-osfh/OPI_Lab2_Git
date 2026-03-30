@@ -63,4 +63,16 @@ public class F extends null implements I, B, G {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
