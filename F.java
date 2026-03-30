@@ -39,4 +39,8 @@ public class F implements I, B, G {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }
