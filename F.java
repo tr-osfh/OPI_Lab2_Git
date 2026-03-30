@@ -43,4 +43,8 @@ public class F implements I, B, G {
     public double ad() {
         return 12.12;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
